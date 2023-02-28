@@ -1,0 +1,4 @@
+ar/com/maca/api/productservice/repos/ProductRepository.class
+ar/com/maca/api/productservice/models/Product.class
+ar/com/maca/api/productservice/ProductserviceApplication.class
+ar/com/maca/api/productservice/controllers/ProductRestController.class

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ar.com.maca.api.productservice.ProductserviceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.052 s - in ar.com.maca.api.productservice.ProductserviceApplicationTests
