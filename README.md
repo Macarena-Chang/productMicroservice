@@ -119,7 +119,7 @@ A [docker-compose.yaml](https://github.com/Macarena-Chang/couponMicroservice/blo
 <br>
 <br>
 
-- `http://localhost:9091/products` - POST: Creates new product entry and applies any applicable discount based on coupon code provided 
+- `http://localhost:9090/products` - POST: Creates new product entry and applies any applicable discount based on coupon code provided 
 <br>
 
 > #### Request Examples
